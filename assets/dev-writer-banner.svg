@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">DEV WRITER — Notes de terrain</title>
+<desc id="desc">Bannière sombre avec la signature DEV WRITER et Invisible décisif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171717"/><stop offset="1" stop-color="#0c3132"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#25e0d0" stop-opacity=".4"/><stop offset="1" stop-color="#25e0d0" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#25e0d0"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+</defs>
+<rect width="1600" height="520" fill="url(#bg)"/>
+<circle cx="1320" cy="75" r="360" fill="url(#glow)"/>
+<circle cx="150" cy="480" r="220" fill="#1877ff" opacity=".08"/>
+<path d="M980 0 C1180 120 1110 260 1600 300" fill="none" stroke="#25e0d0" stroke-opacity=".25" stroke-width="2"/>
+<path d="M1060 0 C1260 140 1180 300 1600 355" fill="none" stroke="#8b5cf6" stroke-opacity=".2" stroke-width="2"/>
+<rect x="72" y="62" width="1456" height="396" rx="24" fill="none" stroke="#3b4a49"/>
+<text x="122" y="145" fill="#25e0d0" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">MARIE-OTNIEL HOUEDOTE</text>
+<text x="118" y="270" fill="#f0f2f2" font-family="Arial, sans-serif" font-size="94" font-weight="300" letter-spacing="-3">DEV WRITER</text>
+<rect x="120" y="300" width="510" height="3" fill="url(#line)"/>
+<text x="122" y="365" fill="#c8d0cf" font-family="Arial, sans-serif" font-size="30">Notes de terrain sur le code, le produit et l’IA.</text>
+<text x="122" y="414" fill="#25e0d0" font-family="Arial, sans-serif" font-size="22" letter-spacing="3">INVISIBLE DÉCISIF</text>
+<text x="1430" y="417" text-anchor="end" fill="#a7adae" font-family="Arial, sans-serif" font-size="18">01 · 2026</text>
+</svg>
