@@ -44,6 +44,10 @@ Une méthode pragmatique pour ajouter de l’intelligence sans dégrader l’exp
 
 Tokens, composants et règles simples pour garder une interface cohérente lorsqu’on construit vite avec peu de ressources.
 
+### 04 · [Concevoir les états avant l’écran](notes/04-concevoir-les-etats-avant-lecran.md)
+
+Une méthode pour concevoir les états de chargement, de vide, de succès et d’erreur avant de finaliser l’écran principal.
+
 ## Ma manière de travailler
 
 Je pars d’un problème concret, je rends les hypothèses visibles, je construis une première version utile, puis j’améliore à partir des retours. Le code compte. Les mots comptent. Le détail qui fait comprendre compte encore plus.
