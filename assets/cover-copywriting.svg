@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">DEV WRITER 05 — Écrire l’interface avant le composant</title>
+  <desc id="desc">Couverture sombre avec une ligne de texte, un curseur et des formes géométriques évoquant une interface en construction.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11151b"/>
+      <stop offset="1" stop-color="#241b34"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#25e0d0"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="18" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1330" cy="190" r="180" fill="#25e0d0" opacity=".08" filter="url(#glow)"/>
+  <circle cx="1420" cy="720" r="240" fill="#8b5cf6" opacity=".12" filter="url(#glow)"/>
+  <path d="M980 90h430M980 120h290M980 150h360" stroke="#b9c3d0" opacity=".18" stroke-width="2"/>
+  <rect x="960" y="260" width="420" height="250" rx="8" fill="none" stroke="#25e0d0" opacity=".38" stroke-width="2"/>
+  <path d="M1010 320h220M1010 350h300M1010 380h190M1010 430h260" stroke="#e8ad74" opacity=".7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1290 420l55 55-38 8 11 40-19 6-12-40-34 20z" fill="#25e0d0"/>
+  <path d="M80 105h170" stroke="url(#line)" stroke-width="5"/>
+  <text x="80" y="170" fill="#25e0d0" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="7">DEV WRITER / 05</text>
+  <text x="80" y="605" fill="#f5f1e8" font-family="Arial, sans-serif" font-size="72" font-weight="700">ÉCRIRE L’INTERFACE</text>
+  <text x="80" y="690" fill="#f5f1e8" font-family="Arial, sans-serif" font-size="72" font-weight="700">AVANT LE COMPOSANT</text>
+  <text x="80" y="755" fill="#b9c3d0" font-family="Arial, sans-serif" font-size="25" letter-spacing="1">COPYWRITING PRODUIT · FULL STACK · PRODUCT BUILDING</text>
+  <path d="M80 805h1440" stroke="url(#line)" stroke-width="2"/>
+  <text x="80" y="845" fill="#e8ad74" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">INVISIBLE DÉCISIF</text>
+  <text x="1390" y="845" fill="#b9c3d0" font-family="Arial, sans-serif" font-size="20" text-anchor="end">05 / 05</text>
+</svg>

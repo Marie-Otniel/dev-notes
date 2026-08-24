@@ -48,6 +48,10 @@ Tokens, composants et règles simples pour garder une interface cohérente lorsq
 
 Une méthode pour concevoir les états de chargement, de vide, de succès et d’erreur avant de finaliser l’écran principal.
 
+### 05 · [Écrire l’interface avant de construire le composant](notes/05-ecrire-interface-avant-composant.md)
+
+Pourquoi le copywriting produit doit précéder les composants : intention, preuve, action, friction et retour.
+
 ## Ma manière de travailler
 
 Je pars d’un problème concret, je rends les hypothèses visibles, je construis une première version utile, puis j’améliore à partir des retours. Le code compte. Les mots comptent. Le détail qui fait comprendre compte encore plus.
