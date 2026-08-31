@@ -52,6 +52,10 @@ Une méthode pour concevoir les états de chargement, de vide, de succès et d�
 
 Pourquoi le copywriting produit doit précéder les composants : intention, preuve, action, friction et retour.
 
+### 06 · [Transformer l'erreur en opportunité de conversion](notes/06-transformer-erreur-en-opportunite.md)
+
+Comment transformer les messages d'erreur en leviers de guidage et de rétention grâce au copywriting et à l'UX.
+
 ## Ma manière de travailler
 
 Je pars d’un problème concret, je rends les hypothèses visibles, je construis une première version utile, puis j’améliore à partir des retours. Le code compte. Les mots comptent. Le détail qui fait comprendre compte encore plus.
