@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">DEV WRITER 07 — L'UI Optimiste : Supprimer la latence par le design</title>
+  <desc id="desc">Couverture sombre avec des éléments de progression instantanée et une typographie dynamique évoquant la fluidité.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11151b"/>
+      <stop offset="1" stop-color="#1b2434"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#25e0d0"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="18" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1330" cy="190" r="180" fill="#25e0d0" opacity=".08" filter="url(#glow)"/>
+  <circle cx="1420" cy="720" r="240" fill="#3b82f6" opacity=".12" filter="url(#glow)"/>
+  
+  <!-- Éléments de progression instantanée -->
+  <path d="M980 90h430M980 120h290M980 150h360" stroke="#b9c3d0" opacity=".18" stroke-width="2"/>
+  <rect x="960" y="260" width="420" height="80" rx="40" fill="none" stroke="#25e0d0" opacity=".38" stroke-width="2"/>
+  <rect x="970" y="270" width="300" height="60" rx="30" fill="#25e0d0" opacity=".6">
+    <animate attributeName="width" from="0" to="400" dur="2s" repeatCount="indefinite" />
+  </rect>
+  
+  <path d="M80 105h170" stroke="url(#line)" stroke-width="5"/>
+  <text x="80" y="170" fill="#25e0d0" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="7">DEV WRITER / 07</text>
+  <text x="80" y="605" fill="#f5f1e8" font-family="Arial, sans-serif" font-size="72" font-weight="700">L'UI OPTIMISTE</text>
+  <text x="80" y="690" fill="#f5f1e8" font-family="Arial, sans-serif" font-size="72" font-weight="700">SUPPRIMER LA LATENCE</text>
+  <text x="80" y="755" fill="#b9c3d0" font-family="Arial, sans-serif" font-size="25" letter-spacing="1">PERFORMANCE PERÇUE · FULL STACK · UX STRATEGY</text>
+  <path d="M80 805h1440" stroke="url(#line)" stroke-width="2"/>
+  <text x="80" y="845" fill="#e8ad74" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">INVISIBLE DÉCISIF</text>
+  <text x="1390" y="845" fill="#b9c3d0" font-family="Arial, sans-serif" font-size="20" text-anchor="end">07 / 07</text>
+</svg>

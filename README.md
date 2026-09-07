@@ -56,6 +56,10 @@ Pourquoi le copywriting produit doit précéder les composants : intention, preu
 
 Comment transformer les messages d'erreur en leviers de guidage et de rétention grâce au copywriting et à l'UX.
 
+### 07 · [L'UI Optimiste — Supprimer la latence par le design](notes/07-ui-optimiste-supprimer-latence.md)
+
+Comment améliorer la performance perçue en affichant les résultats avant la réponse serveur.
+
 ## Ma manière de travailler
 
 Je pars d’un problème concret, je rends les hypothèses visibles, je construis une première version utile, puis j’améliore à partir des retours. Le code compte. Les mots comptent. Le détail qui fait comprendre compte encore plus.
