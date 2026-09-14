@@ -60,6 +60,10 @@ Comment transformer les messages d'erreur en leviers de guidage et de rétention
 
 Comment améliorer la performance perçue en affichant les résultats avant la réponse serveur.
 
+### 08 · [La documentation vivante — Pourquoi votre code ne suffit pas](notes/08-documentation-vivante-code-ne-suffit-pas.md)
+
+Comment capturer l'intention et les décisions derrière le code pour rendre vos projets résilients.
+
 ## Ma manière de travailler
 
 Je pars d’un problème concret, je rends les hypothèses visibles, je construis une première version utile, puis j’améliore à partir des retours. Le code compte. Les mots comptent. Le détail qui fait comprendre compte encore plus.
