@@ -64,6 +64,14 @@ Comment améliorer la performance perçue en affichant les résultats avant la r
 
 Comment capturer l'intention et les décisions derrière le code pour rendre vos projets résilients.
 
+### 09 · [L'IA comme miroir — Auditer son architecture avant de coder](notes/09-ia-miroir-auditer-architecture.md)
+
+Utiliser les LLM pour challenger ses schémas de données et ses choix techniques avant la première ligne de code.
+
+### 10 · [La stratégie du "Progressive Disclosure" — Éviter la surcharge cognitive](notes/10-progressive-disclosure-eviter-surcharge-cognitive.md)
+
+Comment ne montrer que l'essentiel au bon moment pour garder une interface puissante mais simple.
+
 ## Ma manière de travailler
 
 Je pars d’un problème concret, je rends les hypothèses visibles, je construis une première version utile, puis j’améliore à partir des retours. Le code compte. Les mots comptent. Le détail qui fait comprendre compte encore plus.
